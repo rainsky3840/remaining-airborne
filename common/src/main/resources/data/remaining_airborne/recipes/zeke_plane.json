@@ -1,0 +1,43 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PWH",
+    "EBH",
+    "HGH"
+  ],
+  "key": {
+    "B": [
+      {
+        "item": "immersive_aircraft:biplane"
+      }
+    ],
+    "H": [
+      {
+        "item": "immersive_aircraft:hull"
+      }
+    ],
+    "G": [
+      {
+        "item": "immersive_aircraft:industrial_gears"
+      }
+    ],
+    "E": [
+      {
+        "item": "immersive_aircraft:engine"
+      }
+    ],
+    "P": [
+      {
+        "item": "immersive_aircraft:propeller"
+      }
+    ],
+    "W": [
+      {
+        "item": "minecraft:white_dye"
+      }
+    ]
+  },
+  "result": {
+    "item": "remaining_airborne:zeke_plane"
+  }
+}

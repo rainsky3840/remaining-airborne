@@ -1,0 +1,35 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+issueTrackerURL = "https://github.com/rainsky3840/remaining-airborne/issues"
+license = "GPL-3.0-only"
+
+[[mods]]
+modId = "remaining_airborne"
+version = "1.0+1.20.1"
+displayName = "Remaining Airborne"
+displayURL = "https://www.curseforge.com/minecraft/mc-mods/remaining-airborne"
+authors = "Rainwind"
+description = "A set of classic fighter aircraft for the Immersive Aircraft mod."
+logoFile = "icon.png"
+itemIcon = "remaining_airborne:corsair_plane"
+
+[[dependencies.remaining_airborne]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.remaining_airborne]]
+modId = "forge"
+mandatory = true
+versionRange = "[47,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.remaining_airborne]]
+modId = "immersive_aircraft"
+mandatory = true
+versionRange = "[1.1.0,)"
+ordering = "NONE"
+side = "BOTH"

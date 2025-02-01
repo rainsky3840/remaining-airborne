@@ -1,0 +1,18 @@
+{
+  "item.remaining_airborne.zeke_plane": "A6M2 제로 21형",
+  "item.remaining_airborne.zeke_plane.description": "제로기는 생존성을 희생한 대신 우수한 기동성과 항속거리를 보유합니다.",
+  "entity.remaining_airborne.zeke_plane": "A6M2 제로 21형",
+
+  "item.remaining_airborne.corsair_plane": "F4U-1A 콜세어",
+  "item.remaining_airborne.corsair_plane.description": "콜세어는 빠른 속도와 더 나은 화력과 방호력을 가집니다.",
+  "entity.remaining_airborne.corsair_plane": "F4U-1A 콜세어",
+
+  "item.remaining_airborne.fixed_gun": "고정식 기관총",
+  "item.remaining_airborne.fixed_gun.description": "중(重)쇠뇌보다 빠르게 화살을 발사하는 기관총",
+
+  "item.remaining_airborne.fixed_cannon": "고정식 기관포",
+  "item.remaining_airborne.fixed_cannon.description": "폭약을 발사하는 고정식 기관포",
+
+  "item.remaining_airborne.bomb_pylon": "폭탄 파일런",
+  "item.remaining_airborne.bomb_pylon.description": "TNT를 투하하는 폭탄 파일런"
+}

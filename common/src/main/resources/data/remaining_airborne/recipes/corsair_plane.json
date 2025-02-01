@@ -1,0 +1,43 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PUH",
+    "EBH",
+    "GHG"
+  ],
+  "key": {
+    "B": [
+      {
+        "item": "immersive_aircraft:biplane"
+      }
+    ],
+    "H": [
+      {
+        "item": "immersive_aircraft:hull"
+      }
+    ],
+    "G": [
+      {
+        "item": "immersive_aircraft:industrial_gears"
+      }
+    ],
+    "E": [
+      {
+        "item": "immersive_aircraft:engine"
+      }
+    ],
+    "P": [
+      {
+        "item": "immersive_aircraft:propeller"
+      }
+    ],
+    "U": [
+      {
+        "item": "minecraft:blue_dye"
+      }
+    ]
+  },
+  "result": {
+    "item": "remaining_airborne:corsair_plane"
+  }
+}

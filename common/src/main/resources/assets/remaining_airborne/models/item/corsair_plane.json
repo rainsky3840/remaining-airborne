@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "remaining_airborne:item/corsair_plane_color",
+    "layer1": "remaining_airborne:item/corsair_plane"
+  }
+}

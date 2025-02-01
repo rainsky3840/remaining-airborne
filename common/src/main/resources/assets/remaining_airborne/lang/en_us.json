@@ -1,0 +1,18 @@
+{
+  "item.remaining_airborne.zeke_plane": "A6M2 Zero Type 21",
+  "item.remaining_airborne.zeke_plane.description": "The Zero prioritizes excellent maneuverability and range over survivability.",
+  "entity.remaining_airborne.zeke_plane": "A6M2 Zero Type 21",
+
+  "item.remaining_airborne.corsair_plane": "F4U-1A Corsair",
+  "item.remaining_airborne.corsair_plane.description": "The Corsair is faster and better armored while having superior firepower.",
+  "entity.remaining_airborne.corsair_plane": "F4U-1A Corsair",
+
+  "item.remaining_airborne.fixed_gun": "Fixed Machine Gun",
+  "item.remaining_airborne.fixed_gun.description": "Machine gun that fires arrows faster than the heavy crossbow",
+
+  "item.remaining_airborne.fixed_cannon": "Fixed Cannon",
+  "item.remaining_airborne.fixed_cannon.description": "Forward-facing cannon that fires gunpowder",
+
+  "item.remaining_airborne.bomb_pylon": "Bomb Pylon",
+  "item.remaining_airborne.bomb_pylon.description": "Bomb pylon that drops TNT"
+}
